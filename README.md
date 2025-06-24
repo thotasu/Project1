@@ -13,10 +13,10 @@ Checklists are good. They must contain:
 ---
 
 Coding is important in life.
-
+'''
   # this is python code block
   for i in range(10):
     print('we will ')
   print('rock you')
-
+'''
 _Made_ in the most __beautiful__ country on earth.
